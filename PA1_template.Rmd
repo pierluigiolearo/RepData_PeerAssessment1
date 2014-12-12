@@ -10,7 +10,7 @@ github repo with RMarkdown source code:
 https://github.com/pierluigiolearo/RepData_PeerAssessment1
 
 online rendered version on github pages:  
-https://github.com/pierluigiolearo/RepData_PeerAssessment1/PA_template.html
+https://github.com/pierluigiolearo/RepData_PeerAssessment1/blob/master/PA1_template.html
 
 
 ## Loading and preprocessing the data
